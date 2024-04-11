@@ -1,4 +1,4 @@
-#Eli Davis's Encoder file
+# Eli Davis's Encoder file
 
 def encode(password):
     encoded_password = ""
@@ -31,6 +31,6 @@ def main():
         else:
             print("Invalid choice. Please enter a valid option.")
 
-# Call the main function to start the program
+
 if __name__ == "__main__":
     main()
